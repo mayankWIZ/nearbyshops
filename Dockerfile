@@ -16,4 +16,5 @@ RUN python -m pip install --upgrade pip
 RUN apt install build-essential -y
 
 RUN python -m pip install --default-timeout=100 -r requirements.txt
+EXPOSE 8000
 CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
