@@ -1,0 +1,4225 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.60.6 e2dc3e5b",
+  "osm3s": {
+    "timestamp_osm_base": "2023-06-18T10:18:15Z",
+    "timestamp_areas_base": "2023-06-11T03:07:17Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 695666626,
+      "lat": 23.0317635,
+      "lon": 72.5701852,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1561520723,
+      "lat": 23.0116852,
+      "lon": 72.568823,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Amul"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1973440767,
+      "lat": 23.0328812,
+      "lon": 72.5655478,
+      "tags": {
+        "addr:housename": "Shri Krishna Centre",
+        "addr:postcode": "380009",
+        "addr:street": "Law Garden Road",
+        "amenity": "fast_food",
+        "cuisine": "ice_cream",
+        "name": "Natural Ice Cream",
+        "website": "http://www.naturalicecreams.in"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2153505700,
+      "lat": 22.3365654,
+      "lon": 73.1891104,
+      "tags": {
+        "addr:postcode": "390008",
+        "addr:street": "New Sama Road",
+        "amenity": "fast_food",
+        "name": "Hot Stuff"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2344004644,
+      "lat": 22.3002336,
+      "lon": 73.1989767,
+      "tags": {
+        "addr:street": "Opp. Shiddi Vinayak Madir, Dandia Bazar",
+        "amenity": "fast_food",
+        "cuisine": "indian",
+        "name": "Chatkazz Vadapav",
+        "website": "www.chatkazz.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2632034960,
+      "lat": 21.155601,
+      "lon": 72.764266,
+      "tags": {
+        "addr:city": "Surat, Gujarat",
+        "addr:street": "Valentine Cine Vision",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3204975264,
+      "lat": 23.0200882,
+      "lon": 72.5860331,
+      "tags": {
+        "addr:city": "Ahmedabad",
+        "addr:postcode": "380001",
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "name": "Gol Limbda Bhajiya and Nashta House",
+        "opening_hours": "06:30-21:30",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3293763762,
+      "lat": 23.0423379,
+      "lon": 72.549193,
+      "tags": {
+        "amenity": "fast_food",
+        "delivery": "yes",
+        "name": "Shreeji krupa vadapav",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3293792062,
+      "lat": 23.0423816,
+      "lon": 72.5486525,
+      "tags": {
+        "addr:street": "120 Feet Ring Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "opening_hours": "24/7",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3294081761,
+      "lat": 23.0426757,
+      "lon": 72.5492422,
+      "tags": {
+        "addr:street": "120 Feet Ring Road",
+        "amenity": "fast_food",
+        "cuisine": "ice_cream",
+        "name": "Asharfilal Kulfi",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3299342031,
+      "lat": 23.2554625,
+      "lon": 69.6760858,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Alif Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3299342040,
+      "lat": 23.249612,
+      "lon": 69.6693694,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Pizza and Sandwich"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683251,
+      "lat": 23.027562,
+      "lon": 72.5811204,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Lucky Tea Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3426621651,
+      "lat": 23.0206812,
+      "lon": 72.5540845,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Jasuben Pizza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3500459658,
+      "lat": 23.0839448,
+      "lon": 72.5892158,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "delivery": "no",
+        "name": "MAHARAJ Food Corner",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3776207275,
+      "lat": 21.6385029,
+      "lon": 69.6194311,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "PIZZA STAR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3776207281,
+      "lat": 21.638468,
+      "lon": 69.6221831,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "KARNAVATI SNACKS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3881713855,
+      "lat": 22.3102246,
+      "lon": 73.1584287,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Goodies Cafeteria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3881714384,
+      "lat": 22.3105074,
+      "lon": 73.1584019,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Lilleria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3882193585,
+      "lat": 22.3249248,
+      "lon": 73.1891946,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Frigtemp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4008725890,
+      "lat": 21.7682472,
+      "lon": 73.1343647,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "name": "Bhajiya shop",
+        "opening_hours": "09:00-17:00",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4061956254,
+      "lat": 21.2028664,
+      "lon": 72.7922405,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "name": "Rajuchacha Vadapav"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4061982513,
+      "lat": 21.0845444,
+      "lon": 72.7168744,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Dumas Bhajiya",
+        "opening_hours": "08:30-12:30,15:30-20:00",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4199023905,
+      "lat": 23.0385075,
+      "lon": 72.512884,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291987892,
+      "lat": 23.6111091,
+      "lon": 72.3971773,
+      "tags": {
+        "addr:postcode": "384001",
+        "addr:street": "Asharam Road",
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "name": "Kisor pakodi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4292013893,
+      "lat": 23.2184113,
+      "lon": 72.5151861,
+      "tags": {
+        "addr:street": "sh 41",
+        "amenity": "fast_food",
+        "name": "JANTA ice cream"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4292013895,
+      "lat": 23.241203,
+      "lon": 72.4875858,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "MD masala"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4292039993,
+      "lat": 23.2070953,
+      "lon": 72.5343354,
+      "tags": {
+        "addr:street": "SH 41",
+        "amenity": "fast_food",
+        "name": "Gruh laxmi spices"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4292071189,
+      "lat": 22.5742604,
+      "lon": 71.8072937,
+      "tags": {
+        "addr:housenumber": "0 limbdi",
+        "addr:street": "State Highway 20",
+        "amenity": "fast_food",
+        "name": "HFM MCDONALD'S DOMINO'S",
+        "opening_hours": "Mo-Su 06:30-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4292073790,
+      "lat": 22.2689264,
+      "lon": 70.8254589,
+      "tags": {
+        "addr:street": "Rajkot Bypass",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4293330794,
+      "lat": 23.4800544,
+      "lon": 72.3963594,
+      "tags": {
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "name": "Gajanand restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4293346091,
+      "lat": 23.592099,
+      "lon": 72.3781027,
+      "tags": {
+        "addr:street": "Modhera road",
+        "amenity": "fast_food",
+        "name": "Mirchi fast food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4293366993,
+      "lat": 23.6022597,
+      "lon": 72.3902882,
+      "tags": {
+        "addr:street": "toranvadi",
+        "amenity": "fast_food",
+        "name": "Bin harif dabeli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4293408093,
+      "lat": 23.6022634,
+      "lon": 72.3904129,
+      "tags": {
+        "addr:street": "toranvadi",
+        "amenity": "fast_food",
+        "name": "kisan dabeli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4293413591,
+      "lat": 23.6038413,
+      "lon": 72.3907168,
+      "tags": {
+        "addr:street": "fuvara",
+        "amenity": "fast_food",
+        "name": "Raj fast food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4293980691,
+      "lat": 23.6165144,
+      "lon": 72.3961053,
+      "tags": {
+        "addr:postcode": "384001",
+        "addr:street": "Asharam Road",
+        "amenity": "fast_food",
+        "name": "Dilkhus rasoiya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4295526691,
+      "lat": 23.6020755,
+      "lon": 72.2788733,
+      "tags": {
+        "addr:street": "Modhera road",
+        "amenity": "fast_food",
+        "name": "shree Ramdev gota vada"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4296060089,
+      "lat": 23.5901936,
+      "lon": 72.3785851,
+      "tags": {
+        "addr:postcode": "384002",
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "name": "Shiv dosa "
+      }
+    },
+    {
+      "type": "node",
+      "id": 4296060389,
+      "lat": 23.5903262,
+      "lon": 72.3784846,
+      "tags": {
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "name": "Jay bhavani vadapav"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4296616808,
+      "lat": 23.5934074,
+      "lon": 72.3785531,
+      "tags": {
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "name": "prem pizza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4296617441,
+      "lat": 23.5966168,
+      "lon": 72.3796471,
+      "tags": {
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "name": "funny food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4296617912,
+      "lat": 23.5950735,
+      "lon": 72.3788323,
+      "tags": {
+        "addr:street": "Modhera road",
+        "amenity": "fast_food",
+        "name": "devi krupa pan parlor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4296621399,
+      "lat": 23.5947523,
+      "lon": 72.3784591,
+      "tags": {
+        "addr:street": "Modhera road",
+        "amenity": "fast_food",
+        "name": "Bombey chopati"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4296622504,
+      "lat": 23.527785,
+      "lon": 72.3874584,
+      "tags": {
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "name": "Jaibhairav fastfood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4296622506,
+      "lat": 23.5872989,
+      "lon": 72.3753781,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "madhvi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4296657289,
+      "lat": 23.4725549,
+      "lon": 72.3921142,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4296657292,
+      "lat": 23.6158135,
+      "lon": 72.3974546,
+      "tags": {
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "name": "om sai parlor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4296791292,
+      "lat": 23.6007767,
+      "lon": 72.3806226,
+      "tags": {
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "name": "Jay ambe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297541889,
+      "lat": 23.6057772,
+      "lon": 72.3817999,
+      "tags": {
+        "addr:city": "mehsana",
+        "addr:postcode": "384002",
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "name": "Madhvi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297879802,
+      "lat": 23.601829,
+      "lon": 72.390272,
+      "tags": {
+        "addr:street": "station road",
+        "amenity": "fast_food",
+        "name": "lalaji puri n food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4301504489,
+      "lat": 23.5911876,
+      "lon": 72.3776059,
+      "tags": {
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "name": "GolGappa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4301914793,
+      "lat": 23.2456191,
+      "lon": 72.4978359,
+      "tags": {
+        "addr:street": "Siddheshwari Society Road",
+        "amenity": "fast_food",
+        "name": "lucky tea center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4303548191,
+      "lat": 23.2848545,
+      "lon": 72.4400144,
+      "tags": {
+        "addr:postcode": "382729",
+        "amenity": "fast_food",
+        "name": "Karnavati fastfood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4303548395,
+      "lat": 23.5842642,
+      "lon": 72.3733741,
+      "tags": {
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "name": "Ramdev green"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4303562695,
+      "lat": 23.5841874,
+      "lon": 72.3733004,
+      "tags": {
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "name": "Sambhu's cofee shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4304415998,
+      "lat": 23.5969444,
+      "lon": 72.3894444,
+      "tags": {
+        "addr:street": "krishn cinema road",
+        "amenity": "fast_food",
+        "name": "Indian sing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305384390,
+      "lat": 23.6129273,
+      "lon": 72.4029724,
+      "tags": {
+        "addr:city": "mahesana",
+        "addr:postcode": "384001",
+        "addr:street": "Asharam Road",
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "name": "Ankur khamani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305633595,
+      "lat": 23.2529063,
+      "lon": 72.483675,
+      "tags": {
+        "addr:street": "Ahmedabad -Mehsana highway",
+        "amenity": "fast_food",
+        "name": "Jay bhavani vadapav",
+        "phone": "8000266665"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4306919589,
+      "lat": 23.5936389,
+      "lon": 72.3828776,
+      "tags": {
+        "addr:street": "Modhera road",
+        "amenity": "fast_food",
+        "name": "Khaman house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4308250936,
+      "lat": 23.5977819,
+      "lon": 72.3793866,
+      "tags": {
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "name": "Pizza Crust"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4312193691,
+      "lat": 23.2408637,
+      "lon": 72.5010327,
+      "tags": {
+        "addr:street": "Siddheshwari Society Road",
+        "amenity": "fast_food",
+        "name": "Pooja fastfood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4323347599,
+      "lat": 22.3511802,
+      "lon": 73.2008394,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Siddhartha Annexe F Vaimali Road",
+        "addr:street": "Sama-Savli Rd",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4323406799,
+      "lat": 22.3512548,
+      "lon": 73.2009354,
+      "tags": {
+        "addr:street": "New Sama Road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4323427291,
+      "lat": 22.3511081,
+      "lon": 73.2004175,
+      "tags": {
+        "addr:street": "New Sama Road",
+        "amenity": "fast_food",
+        "name": "Southern Spice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4323468590,
+      "lat": 22.3514675,
+      "lon": 73.2008301,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Siddharth Anex",
+        "addr:street": "Sama-Savli Rd, Vemali",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4326501193,
+      "lat": 23.005805,
+      "lon": 72.5552881,
+      "tags": {
+        "addr:street": "Ashram Road",
+        "amenity": "fast_food",
+        "name": "TGB"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4326845590,
+      "lat": 22.3287536,
+      "lon": 70.8748215,
+      "tags": {
+        "addr:street": "rajkot road",
+        "amenity": "fast_food",
+        "name": "Fun n food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4358562689,
+      "lat": 23.051025,
+      "lon": 72.64396,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4358562690,
+      "lat": 23.0510167,
+      "lon": 72.64456,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "TGB"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4358562889,
+      "lat": 23.0512085,
+      "lon": 72.643756,
+      "tags": {
+        "addr:street": "NH8",
+        "amenity": "fast_food",
+        "name": "Spoons n straws"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4380552160,
+      "lat": 23.1799492,
+      "lon": 72.5730115,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "name": "Bhojnalaya - Unodri Bhavan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4422047292,
+      "lat": 23.1103852,
+      "lon": 72.6748785,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Kaka fast food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4422082966,
+      "lat": 23.1113356,
+      "lon": 72.6718897,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Kaka ni bhajipav"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4422101589,
+      "lat": 23.1104061,
+      "lon": 72.6748011,
+      "tags": {
+        "addr:street": "Sardar Patel Ring Road",
+        "amenity": "fast_food",
+        "name": "Kaka fastfood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4434581034,
+      "lat": 22.6926553,
+      "lon": 72.8600277,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "burger,_Sandwich,_Puff;Vada_pav;coldrinks",
+        "drive_through": "no",
+        "name": "Saibaba Refreshments",
+        "opening_hours": "07:00-10:00",
+        "smoking": "outside",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4456317590,
+      "lat": 22.2781379,
+      "lon": 70.7623762,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4456338991,
+      "lat": 22.2728284,
+      "lon": 70.7563155,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Mcdonald",
+        "name:en": "Mcdonald"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4477740673,
+      "lat": 23.2370307,
+      "lon": 72.4938701,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Shreeeji Milk Palace"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4479025200,
+      "lat": 23.2322383,
+      "lon": 72.6490567,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Food point 51 hotels",
+        "name:en": "Food point 51 hotels"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4483440390,
+      "lat": 23.2820159,
+      "lon": 72.441546,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Cremos",
+        "name:en": "Cremos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4538991536,
+      "lat": 23.6165137,
+      "lon": 72.3515712,
+      "tags": {
+        "addr:city": "mehasana",
+        "addr:street": "Radhanpur-Mehsana sh-68ext",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4546482889,
+      "lat": 22.1646238,
+      "lon": 73.1832104,
+      "tags": {
+        "addr:street": "vadodra by pass",
+        "amenity": "fast_food",
+        "name": "PYRAMID Highway fast food",
+        "name:en": "PYRAMID Highway fast food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4685354589,
+      "lat": 23.0550362,
+      "lon": 72.5398877,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "nilam snacks",
+        "name:en": "nilam snacks"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4704651212,
+      "lat": 23.0071778,
+      "lon": 72.6638136,
+      "tags": {
+        "addr:postcode": "382418",
+        "addr:street": "tanman chokdi",
+        "amenity": "fast_food",
+        "cuisine": "indian",
+        "name": "Tan-man bhaji pav",
+        "name:en": "Tan-man bhaji pav",
+        "name:hi": "Tan-man bhaji pav"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4707672889,
+      "lat": 21.466768,
+      "lon": 72.9969943,
+      "tags": {
+        "addr:street": "nh 48 mangrol",
+        "amenity": "fast_food",
+        "name": "Nandini food plaza",
+        "name:en": "Nandini food plaza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4721512586,
+      "lat": 23.1646237,
+      "lon": 72.8107969,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Kutchi King"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4721512587,
+      "lat": 23.1647419,
+      "lon": 72.8109707,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Apun Ka Adda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4722413220,
+      "lat": 23.1663714,
+      "lon": 72.8139376,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Jay Bhole"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4789797737,
+      "lat": 22.4673747,
+      "lon": 73.1149321,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Food plaza",
+        "name:en": "Food plaza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4797415998,
+      "lat": 23.0422816,
+      "lon": 72.549183,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4867827321,
+      "lat": 22.5724352,
+      "lon": 71.9992397,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Sugar and Spice",
+        "name:en": "Sugar and Spice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4877532112,
+      "lat": 22.3172925,
+      "lon": 73.1685235,
+      "tags": {
+        "addr:city": "vadodara",
+        "addr:postcode": "390007",
+        "addr:street": "Genda circle",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "capacity": "15-20",
+        "cuisine": "sandwich",
+        "description": "veg-non veg.",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4907922529,
+      "lat": 21.5110656,
+      "lon": 70.4602873,
+      "tags": {
+        "addr:street": "Sardar Patel Chowk",
+        "amenity": "fast_food",
+        "name": "Royal tea n farsan",
+        "name:en": "Royal tea n farsan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5140818187,
+      "lat": 23.0398379,
+      "lon": 72.5276503,
+      "tags": {
+        "amenity": "fast_food",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "Iscon Ghantiya",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5154576489,
+      "lat": 23.2169929,
+      "lon": 72.6497749,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5154576490,
+      "lat": 23.2170663,
+      "lon": 72.6496179,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5240634617,
+      "lat": 22.2699124,
+      "lon": 73.1431511,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Cosmos Tower",
+        "addr:street": "Near, Padra Road, Atladara",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "delivery": "yes",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5243760035,
+      "lat": 22.02452,
+      "lon": 73.1176539,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "american;burger",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5243760038,
+      "lat": 22.024323,
+      "lon": 73.1175448,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5245153965,
+      "lat": 21.2762148,
+      "lon": 72.9537852,
+      "tags": {
+        "addr:city": "kamrej, Surat",
+        "addr:street": "Mumbai Ahemdabad Highway",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5429221632,
+      "lat": 21.1737312,
+      "lon": 72.7944337,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:postcode": "395007",
+        "addr:street": "Ghod Dhod Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "ele": "0",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6046844085,
+      "lat": 21.2136691,
+      "lon": 72.7727807,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Feeling hungry?"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6403467582,
+      "lat": 23.6200348,
+      "lon": 72.3441328,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Bypass Fast Food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6544940700,
+      "lat": 22.5417812,
+      "lon": 72.9468395,
+      "tags": {
+        "addr:city": "anand",
+        "addr:housenumber": "Shop No.46",
+        "addr:postcode": "388001",
+        "addr:street": "Maruti Mall,Shop No 46 Ground Floor Maruti Solaris Near Madhuban Resort, Anand - Sojitra Rd, Anand, Gujarat 388001",
+        "air_conditioning": "yes",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger;pizza",
+        "delivery": "yes",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "operator": "McDonald's",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6831009179,
+      "lat": 22.9798046,
+      "lon": 72.5737246,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Himalaya Bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7005934785,
+      "lat": 20.6778123,
+      "lon": 72.9521001,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Sairam Ubadiyu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7008883628,
+      "lat": 20.6757094,
+      "lon": 72.9503207,
+      "tags": {
+        "amenity": "fast_food",
+        "diet:vegetarian": "yes",
+        "name": "Balaji Wafers Retail Counter",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095153563,
+      "lat": 21.1940006,
+      "lon": 72.7870448,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "Millionaire Business Park, Adajan",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095203711,
+      "lat": 21.1447394,
+      "lon": 72.7579799,
+      "tags": {
+        "addr:city": "Surat, Gujarat",
+        "addr:street": "Rundh Village Dumas Road, Magdalla",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095220180,
+      "lat": 21.1451476,
+      "lon": 72.8029557,
+      "tags": {
+        "addr:city": "Surat, Gujarat",
+        "addr:street": "VIP Road Althan",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095228247,
+      "lat": 21.1581677,
+      "lon": 72.7696204,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "VR surat",
+        "addr:street": "Dumas Road",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "brand:ur": "برگر کنگ",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "brand:wikipedia:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "brand:wikipedia:ur": "برگر کنگ",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "name:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "name:ru": "Бургер Кинг",
+        "name:ur": "برگر کنگ",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095230046,
+      "lat": 21.1894756,
+      "lon": 72.7899221,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "Valentina Business Hub",
+        "addr:street": "LP Savani Rd",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "brand:ur": "برگر کنگ",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "brand:wikipedia:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "brand:wikipedia:ur": "برگر کنگ",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "name:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "name:ru": "Бургер Кинг",
+        "name:ur": "برگر کنگ",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095246183,
+      "lat": 21.1974536,
+      "lon": 72.7954141,
+      "tags": {
+        "addr:city": "Adajan, Surat",
+        "addr:street": "Umeshwar Complex",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095263038,
+      "lat": 21.2000634,
+      "lon": 72.8041839,
+      "tags": {
+        "addr:city": "Adajan Surat",
+        "addr:street": "Umeshwar Complex, Rander Rd",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095266804,
+      "lat": 21.1825082,
+      "lon": 72.8310697,
+      "tags": {
+        "addr:city": "Ring Rd, Surat",
+        "addr:street": "Reliance Mega Mall",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095268877,
+      "lat": 21.1783122,
+      "lon": 72.9627747,
+      "tags": {
+        "addr:city": "Gujarat",
+        "addr:street": "Moje Umbhel, Taluka, Kamrej",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095277011,
+      "lat": 21.1447746,
+      "lon": 72.7573895,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "VR Mall",
+        "addr:street": "Udhna Magdalla Road",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "brand:ur": "برگر کنگ",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "brand:wikipedia:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "brand:wikipedia:ur": "برگر کنگ",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "name:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "name:ru": "Бургер Кинг",
+        "name:ur": "برگر کنگ",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095280394,
+      "lat": 21.2291712,
+      "lon": 72.8963614,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "Street no 3 Nana Varachha",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095285971,
+      "lat": 22.3018409,
+      "lon": 73.2544159,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Taksh Galaxy Mall",
+        "addr:street": "Vadodara Bypass",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "brand:ur": "برگر کنگ",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "brand:wikipedia:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "brand:wikipedia:ur": "برگر کنگ",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "name:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "name:ru": "Бургер Кинг",
+        "name:ur": "برگر کنگ",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095294131,
+      "lat": 22.3219443,
+      "lon": 73.1654796,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Inorbit mall",
+        "addr:street": "Subhanpura",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "brand:ur": "برگر کنگ",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "brand:wikipedia:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "brand:wikipedia:ur": "برگر کنگ",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "Burger King",
+        "name:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "name:ru": "Бургер Кинг",
+        "name:ur": "برگر کنگ",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095295458,
+      "lat": 22.3130881,
+      "lon": 73.1581583,
+      "tags": {
+        "addr:city": "Vadodara, Gujarat",
+        "addr:street": "Inox Multiplex, Race Course Rd",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095305002,
+      "lat": 22.3015915,
+      "lon": 73.1384812,
+      "tags": {
+        "addr:city": "Vadodara, Gujarat",
+        "addr:street": "Ashwamegh Nagar, Saiyed Vasna",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095312772,
+      "lat": 22.3171604,
+      "lon": 73.1682542,
+      "tags": {
+        "addr:city": "Vadodara, Gujarat",
+        "addr:housenumber": "Vadodara Central",
+        "addr:street": "Genda Cir, Alkapuri",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095335323,
+      "lat": 22.2970337,
+      "lon": 73.1649712,
+      "tags": {
+        "addr:city": "Vadodara, Gujarat",
+        "addr:housenumber": "The New World",
+        "addr:street": "Manisha Chowkdi",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095346152,
+      "lat": 22.2733459,
+      "lon": 73.1882821,
+      "tags": {
+        "addr:city": "Vadodara Gujarat",
+        "addr:street": "Ground Eva Mall patidar, Uma Char Rasta",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095347686,
+      "lat": 22.2727018,
+      "lon": 73.1904577,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Eva Mall Patider",
+        "addr:street": "near saraswati complex",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095351316,
+      "lat": 22.3076346,
+      "lon": 73.1659044,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Chikuwadi, Haripura",
+        "addr:street": "Old Padra Road",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "brand:ur": "برگر کنگ",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "brand:wikipedia:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "brand:wikipedia:ur": "برگر کنگ",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "name:pa": "ਬਰਗਰ ਕਿੰਗ",
+        "name:ru": "Бургер Кинг",
+        "name:ur": "برگر کنگ",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095377137,
+      "lat": 22.3228945,
+      "lon": 73.1867698,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Jayesh Colony",
+        "addr:street": "Fatehgunj",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095406829,
+      "lat": 22.3125533,
+      "lon": 73.2541038,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:street": "Kamlanagar Madhavpura",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095409510,
+      "lat": 22.3012708,
+      "lon": 73.2404379,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:street": "opposite L&T Knowledge City, Madhavpura",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097465543,
+      "lat": 21.2361461,
+      "lon": 72.8252615,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "Ambatalavdi, Katargam",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097472475,
+      "lat": 21.1955541,
+      "lon": 72.797396,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "Adajan Gam, Adajan",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097473055,
+      "lat": 21.1931143,
+      "lon": 72.7867777,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "UN G1B, Gr Flr, Shivalik Western",
+        "addr:street": "TGB circle",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:pa": "ਕੇਐਫਸੀ",
+        "brand:ur": "کینٹکی فرائیڈ چکن",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "brand:wikipedia:pa": "ਕੇਐਫਸੀ",
+        "brand:wikipedia:ur": "کینٹکی فرائیڈ چکن",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "name:pa": "ਕੇਐਫਸੀ",
+        "name:ur": "کینٹکی فرائیڈ چکن",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097492279,
+      "lat": 21.1424293,
+      "lon": 72.7552014,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "VR Mall",
+        "addr:street": "Dumas Road",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:pa": "ਕੇਐਫਸੀ",
+        "brand:ur": "کینٹکی فرائیڈ چکن",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "brand:wikipedia:pa": "ਕੇਐਫਸੀ",
+        "brand:wikipedia:ur": "کینٹکی فرائیڈ چکن",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "name:pa": "ਕੇਐਫਸੀ",
+        "name:ur": "کینٹکی فرائیڈ چکن",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097495882,
+      "lat": 21.1545081,
+      "lon": 72.764844,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "Cental Mall",
+        "addr:street": "Dumas Road",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:pa": "ਕੇਐਫਸੀ",
+        "brand:ur": "کینٹکی فرائیڈ چکن",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "brand:wikipedia:pa": "ਕੇਐਫਸੀ",
+        "brand:wikipedia:ur": "کینٹکی فرائیڈ چکن",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "name:pa": "ਕੇਐਫਸੀ",
+        "name:ur": "کینٹکی فرائیڈ چکن",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097517439,
+      "lat": 21.1755739,
+      "lon": 72.8176366,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "Bhatar Road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097533557,
+      "lat": 21.1894449,
+      "lon": 72.7900021,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "Vanlentina Business Hub",
+        "addr:street": "Adajan Gam, Adajan",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097536064,
+      "lat": 21.1433876,
+      "lon": 72.7947489,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "E-space, Nr. Bhagwan Mahavir College",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097538095,
+      "lat": 21.1757603,
+      "lon": 72.8090181,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "Adarsh Society, Athwa",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097539688,
+      "lat": 21.1706861,
+      "lon": 72.7885552,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "Anmol complex, Athwa",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097541232,
+      "lat": 21.1600827,
+      "lon": 72.7727727,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "Piplod Main Road",
+        "addr:street": "Beside Rajanse Cinema, Piplod",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097547342,
+      "lat": 21.1740069,
+      "lon": 72.7999983,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "First Floor Regent Arcade",
+        "addr:street": "Ghod Dhod Road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097561481,
+      "lat": 21.1960571,
+      "lon": 72.7975612,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "Anand Mahal Road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097573142,
+      "lat": 21.1913006,
+      "lon": 72.7878355,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "LP Savani Road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097582072,
+      "lat": 21.186045,
+      "lon": 72.8367322,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "Kinnary Cinema, Salabatpura",
+        "addr:street": "Ring Road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097589074,
+      "lat": 21.1708131,
+      "lon": 72.8310991,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "Laxmi nagar",
+        "addr:street": "Udhana",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097592073,
+      "lat": 21.2247183,
+      "lon": 72.8074072,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "near D Mart",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "note": "Silver Stone Arcade",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097593422,
+      "lat": 21.2245608,
+      "lon": 72.8071974,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "Causeway Road, Singanpor",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "note": "Silver Stone Arcade",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097596947,
+      "lat": 21.2366855,
+      "lon": 72.875673,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "Sunshine Complex",
+        "addr:street": "Sudama chowk",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097621426,
+      "lat": 21.218227,
+      "lon": 72.8701262,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "Adithya Chambers",
+        "addr:street": "Varachha Road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097621984,
+      "lat": 21.1871027,
+      "lon": 72.7111664,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "Village, Ichhapur",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "note": "Siddhi Plaza",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097630825,
+      "lat": 21.1871827,
+      "lon": 72.7118101,
+      "tags": {
+        "addr:city": "Surat",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "note": "Siddhi Plaza Opp. Kribhco Township",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097644075,
+      "lat": 21.1577917,
+      "lon": 72.7686783,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "International Business Center, Piplod",
+        "addr:street": "Dumas Road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097645949,
+      "lat": 21.2311446,
+      "lon": 72.9032447,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "Varachha Main Road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097646212,
+      "lat": 21.2177043,
+      "lon": 72.7885489,
+      "tags": {
+        "addr:city": "Suart",
+        "addr:housenumber": "Ramnagar",
+        "addr:street": "Adajan",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097648159,
+      "lat": 21.2141092,
+      "lon": 72.7756803,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "Palanpur",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097678539,
+      "lat": 21.1298191,
+      "lon": 72.6529466,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "ESSAR, HAZARIA",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097680916,
+      "lat": 21.2325355,
+      "lon": 72.8358594,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:housenumber": "Chitrakut Society",
+        "addr:street": "Vishal Nagar",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097702167,
+      "lat": 21.1966259,
+      "lon": 72.8598251,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:street": "Amidhara Society",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "note": "Ground Floor I.G. Complex, 3 & 4",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097971974,
+      "lat": 22.3089875,
+      "lon": 73.1603544,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Sun Buildings",
+        "addr:street": "Race Course Road",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097987463,
+      "lat": 22.3223768,
+      "lon": 73.1655062,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Inorbit Mall Vadodara",
+        "addr:street": "Subhanpura",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:pa": "ਕੇਐਫਸੀ",
+        "brand:ur": "کینٹکی فرائیڈ چکن",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "brand:wikipedia:pa": "ਕੇਐਫਸੀ",
+        "brand:wikipedia:ur": "کینٹکی فرائیڈ چکن",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "name:pa": "ਕੇਐਫਸੀ",
+        "name:ur": "کینٹکی فرائیڈ چکن",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097989781,
+      "lat": 22.2709058,
+      "lon": 73.1944365,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Sai Rutu Manjalpur",
+        "addr:street": "Sarawati road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097998981,
+      "lat": 22.2710488,
+      "lon": 73.1941976,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "GIDC Industrial Area",
+        "addr:street": "Manjalpur",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098005061,
+      "lat": 22.3158037,
+      "lon": 73.1320175,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:street": "Chandramauleshwar Nagar, Gotri",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098007505,
+      "lat": 22.3173237,
+      "lon": 73.1699104,
+      "tags": {
+        "addr:city": "vadodara",
+        "addr:housenumber": "Central Mall Genda",
+        "addr:street": "Genda Circle",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:pa": "ਕੇਐਫਸੀ",
+        "brand:ur": "کینٹکی فرائیڈ چکن",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "brand:wikipedia:pa": "ਕੇਐਫਸੀ",
+        "brand:wikipedia:ur": "کینٹکی فرائیڈ چکن",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "name:pa": "ਕੇਐਫਸੀ",
+        "name:ur": "کینٹکی فرائیڈ چکن",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098028446,
+      "lat": 22.3223109,
+      "lon": 73.1652321,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:street": "Gorwa Rd, Subhanpura",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098029044,
+      "lat": 22.3201933,
+      "lon": 73.1596747,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:street": "Ganga Jamana Society, Subhanpura",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098030447,
+      "lat": 22.2734946,
+      "lon": 73.1886805,
+      "tags": {
+        "addr:city": "Vadodara Gujarat",
+        "addr:housenumber": "Saraswati Complex",
+        "addr:street": "Manjalpur",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:pa": "ਕੇਐਫਸੀ",
+        "brand:ur": "کینٹکی فرائیڈ چکن",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "brand:wikipedia:pa": "ਕੇਐਫਸੀ",
+        "brand:wikipedia:ur": "کینٹکی فرائیڈ چکن",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "name:pa": "ਕੇਐਫਸੀ",
+        "name:ur": "کینٹکی فرائیڈ چکن",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098033446,
+      "lat": 22.3089015,
+      "lon": 73.1866446,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:street": "University, Sarod, Sayajiganj",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098041167,
+      "lat": 22.3226584,
+      "lon": 73.166166,
+      "tags": {
+        "addr:city": "Vadodara",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "note": "inorbit mall",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098045064,
+      "lat": 22.3200841,
+      "lon": 73.1596456,
+      "tags": {
+        "addr:city": "Vadodara",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "note": "S Square Subhanpura Rd , Ellora Park",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098059135,
+      "lat": 22.3158697,
+      "lon": 73.1615258,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Raj Castle Building",
+        "addr:street": "Race Course Road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098059410,
+      "lat": 22.3190656,
+      "lon": 73.188303,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "AG Chamber",
+        "addr:street": "Narhari Hospital Circle,",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098067282,
+      "lat": 22.323134,
+      "lon": 73.1973994,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Goverdhan Apartment",
+        "addr:street": "Jay Santhoshi Nagar, Karelibagh",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098072008,
+      "lat": 22.3373315,
+      "lon": 73.1791996,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Nizampura",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098075930,
+      "lat": 22.2829953,
+      "lon": 73.1662708,
+      "tags": {
+        "addr:city": "Vadodar",
+        "addr:street": "near Akshar Chowk, Munjmahuda",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098076994,
+      "lat": 22.3517647,
+      "lon": 73.2008805,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:street": "beside M.S. Hostel, Vemali",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098083471,
+      "lat": 22.3179465,
+      "lon": 73.2276885,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:street": "New VIP Rd",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "note": "Earth Icon Near Khodiyar Nagar Crossing",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098090588,
+      "lat": 22.3003308,
+      "lon": 73.230419,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Uma Co-operative Housing Society Limited",
+        "addr:street": "indrapuri road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7713971326,
+      "lat": 21.1909121,
+      "lon": 72.8602453,
+      "tags": {
+        "addr:city": "Surat",
+        "addr:postcode": "395010",
+        "addr:street": "Model Town Road, Near I Mata Circle",
+        "air_conditioning": "yes",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "drive_through": "no",
+        "name": "Pizza Da Dhaba",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7740233364,
+      "lat": 22.2949189,
+      "lon": 73.1534212,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Grown Floor, Pancham Icon",
+        "addr:postcode": "390012",
+        "addr:street": "Saiyed Vasna Road, Near D'Mart",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:pa": "ਸਬਵੇਅ",
+        "brand:ur": "سب وے",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:pa": "ਸਬਵੇਅ",
+        "name:ur": "سب وے",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7740233365,
+      "lat": 22.2949415,
+      "lon": 73.1536692,
+      "tags": {
+        "addr:city": "Vadodara",
+        "addr:postcode": "390015",
+        "addr:street": "Pancham Icon, Saiyed Vasna Road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8455774613,
+      "lat": 23.0221413,
+      "lon": 72.5567513,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8460962736,
+      "lat": 23.2642324,
+      "lon": 72.6661194,
+      "tags": {
+        "addr:city": "gandhinagar",
+        "addr:housenumber": "G-4",
+        "addr:postcode": "382610",
+        "addr:street": "pethapur",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "drive_through": "yes",
+        "name": "quickshef",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "opening_hours:covid19": "open",
+        "phone": "6356166209",
+        "website": "quickshef@gmail.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8998662168,
+      "lat": 23.0163696,
+      "lon": 72.5248026,
+      "tags": {
+        "addr:city": "Ahmedabad",
+        "addr:postcode": "380015",
+        "addr:street": "Shivalay Apartment 2",
+        "air_conditioning": "yes",
+        "amenity": "fast_food",
+        "cuisine": "regional;indian",
+        "name": "Diwan Bhel Pakodi Center",
+        "opening_hours": "Mo-Su 11:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8998662169,
+      "lat": 23.0163966,
+      "lon": 72.5243683,
+      "tags": {
+        "addr:city": "Ahmedabad",
+        "addr:housenumber": "GF-5",
+        "addr:postcode": "380015",
+        "addr:street": "Nandanvan 3",
+        "amenity": "fast_food",
+        "cuisine": "regional;indian",
+        "name": "Jagdish Chaat Pakodi Center",
+        "opening_hours": "Mo-Su 14:00-22:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9005464434,
+      "lat": 23.0172744,
+      "lon": 72.5299212,
+      "tags": {
+        "addr:city": "Ahmedabad",
+        "addr:housename": "Sigma Icon",
+        "addr:postcode": "380015",
+        "addr:street": "132 Ft. Ring Road",
+        "addr:suburb": "Shyamal",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "phone": "18002081234",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9009705206,
+      "lat": 23.0258612,
+      "lon": 72.4762382,
+      "tags": {
+        "addr:city": "Ahmedabad",
+        "addr:housenumber": "SN 1",
+        "addr:postcode": "380058",
+        "addr:street": "Sardar Patel Ring Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "phone": "+919372722317",
+        "takeaway": "yes",
+        "website": "https://www.mcdelivery.co.in/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9009771427,
+      "lat": 23.0123743,
+      "lon": 72.511119,
+      "tags": {
+        "addr:city": "Ahmedabad",
+        "addr:housenumber": "A-04 A-05",
+        "addr:postcode": "380015",
+        "addr:street": "100 Ft. Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "opening_hours": "Mo-Su 10:00-22:45",
+        "phone": "+918928304108",
+        "takeaway": "yes",
+        "website": "https://www.mcdelivery.co.in/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9115520769,
+      "lat": 21.205929,
+      "lon": 72.8405609,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Rail Ahar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9115520770,
+      "lat": 21.2059607,
+      "lon": 72.8408444,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Rail Ahar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9117110581,
+      "lat": 23.4724121,
+      "lon": 72.3920679,
+      "tags": {
+        "addr:housenumber": "5-6",
+        "addr:postcode": "384435",
+        "addr:street": "Ahmedabad Palanpur State Highway SH41",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:ks": "ڈومینوز",
+        "brand:pa": "ਡੋਮੀਨੋਜ਼",
+        "brand:ur": "ڈومینوز",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "name:ks": "ڈومینوز",
+        "name:pa": "ਡੋਮੀਨੋਜ਼",
+        "name:ur": "ڈومینوز",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9123574763,
+      "lat": 23.0361967,
+      "lon": 72.5110489,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "pizza;burger;sandwich;fast_food;tea_shop;juice",
+        "drive_through": "no",
+        "name": "Deva's Coffee Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9287451026,
+      "lat": 23.0371443,
+      "lon": 72.5290405,
+      "tags": {
+        "addr:housenumber": "Himalaya Arcade B",
+        "addr:street": "Sargam Marg, Nehru Park Cir, Mahavir Nagar society, Vastrapur, Ahmedabad, Gujarat 380015",
+        "amenity": "fast_food",
+        "name": "Shreeji Krupa Bombay Vadapav"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9296316189,
+      "lat": 23.0371776,
+      "lon": 72.5291086,
+      "tags": {
+        "addr:housenumber": "Himalaya Arcade B",
+        "addr:street": "Sargam Marg, Nehru Park Cir, Mahavir Nagar society, Vastrapur, Ahmedabad, Gujarat 380015",
+        "amenity": "fast_food",
+        "name": "Gajanand Pauva House",
+        "opening_hours": "Mo-Su 04:30-23:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9296318313,
+      "lat": 23.0371316,
+      "lon": 72.5290981,
+      "tags": {
+        "addr:housenumber": "Himalaya Arcade B",
+        "addr:street": "Sargam Marg, Nehru Park Cir, Mahavir Nagar society, Vastrapur, Ahmedabad, Gujarat 380015",
+        "amenity": "fast_food",
+        "description": "Chole Puri, Parathas, Thepla, Pulav",
+        "name": "Jay Mataji Fast Food",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+919377080380"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9310325493,
+      "lat": 23.0182853,
+      "lon": 72.4716006,
+      "tags": {
+        "address": "Near Auda Garden, Opp. Samanavya Residency, South Bopal, Ahmedabad",
+        "amenity": "fast_food",
+        "name": "Purohit Chavana and Sweet Mart",
+        "phone": "+919824013574"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9318813907,
+      "lat": 23.0276271,
+      "lon": 72.5588748,
+      "tags": {
+        "address": "Ground Floor 1, P 2 HUB Opposite National Handloom, Law Garden Road, Off, Chimanlal Girdharlal Rd, Ahmedabad, Gujarat 380006",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Puffiza",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "079 4039 5555",
+        "website": "https://puffiza.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9754908564,
+      "lat": 22.5669643,
+      "lon": 70.4142122,
+      "tags": {
+        "addr:city": "Dhrol",
+        "addr:postcode": "361210",
+        "addr:street": "Dhrol Main Road",
+        "amenity": "fast_food",
+        "name": "Dharmraj Bhel House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9806747712,
+      "lat": 23.1925108,
+      "lon": 72.6164238,
+      "tags": {
+        "addr:city": "Gandhinagar",
+        "addr:postcode": "382421",
+        "addr:street": "Gandhinagar Bypass Road",
+        "air_conditioning": "yes",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "cuisine": "burger",
+        "delivery": "yes",
+        "diet:non-vegetarian": "yes",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "name": "McDonald's",
+        "outdoor_seating": "no",
+        "payment:american_express": "yes",
+        "payment:app": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "smoking": "no",
+        "source": "local knowledge",
+        "takeaway": "yes",
+        "website": "https://www.mcdonaldsindia.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9837804256,
+      "lat": 22.5452396,
+      "lon": 72.9296937,
+      "tags": {
+        "amenity": "fast_food",
+        "brewery": "no",
+        "name": "Joules bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9837829149,
+      "lat": 22.5558085,
+      "lon": 72.9503592,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Relish World"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9838131524,
+      "lat": 22.5416374,
+      "lon": 72.9470543,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Brown corner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9838131541,
+      "lat": 22.5412519,
+      "lon": 72.9468888,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "juice",
+        "name": "The Shakemaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9951265800,
+      "lat": 23.0218092,
+      "lon": 72.5062361,
+      "tags": {
+        "address": "Service Road, Besides Novotel, Opposite Karnavati Club, S.G. Highway, Ahmedabad",
+        "amenity": "fast_food",
+        "name": "Bhookh Lagi Hai?",
+        "phone": "+919001293435"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10177917536,
+      "lat": 23.017434,
+      "lon": 72.4756286,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Gwalia Sweets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10613564144,
+      "lat": 22.3220925,
+      "lon": 73.1654761,
+      "tags": {
+        "addr:city": "maharashtra",
+        "addr:housenumber": "123",
+        "addr:postcode": "400092",
+        "addr:street": "new link road",
+        "amenity": "fast_food",
+        "brand": "inox",
+        "cuisine": "asian;pizza;chinese",
+        "diet:vegetarian": "yes",
+        "drive_through": "yes",
+        "name": "inorbit",
+        "opening_hours": "11:00-21:30",
+        "operator": "inox",
+        "phone": "+91 99887 76655",
+        "website": "https://www.inorbit.in/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10750415885,
+      "lat": 23.0407863,
+      "lon": 72.5275081,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "leela sandwich"
+      }
+    },
+    {
+      "type": "way",
+      "id": 49406390,
+      "nodes": [
+        627507677,
+        627507685,
+        627507694,
+        627507680,
+        627507677
+      ],
+      "tags": {
+        "alt_name": "BMW",
+        "amenity": "fast_food",
+        "name": "Canteen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375251403,
+      "nodes": [
+        3786396838,
+        3786396839,
+        3786396840,
+        3786396841,
+        3786396838
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375251802,
+      "nodes": [
+        3786401053,
+        3786401054,
+        3786401055,
+        3786401056,
+        3786401357,
+        3786401358,
+        3786401359,
+        3786401360,
+        3786401053
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375251803,
+      "nodes": [
+        3786401361,
+        3786401362,
+        3786401363,
+        3786401364,
+        3786401365,
+        3786401366,
+        3786401367,
+        3786401368,
+        3786401369,
+        3786401370,
+        3786401371,
+        3786401361
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375251804,
+      "nodes": [
+        3786401372,
+        3786401373,
+        3786401374,
+        3786401375,
+        3786401376,
+        3786401377,
+        3786401378,
+        3786401379,
+        3786401380,
+        3786401381,
+        3786401382,
+        3786401383,
+        3786401372
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375512880,
+      "nodes": [
+        3788750497,
+        3788750498,
+        3788750499,
+        3788750500,
+        3788750497
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 394044159,
+      "nodes": [
+        3970813555,
+        3970813556,
+        3970814457,
+        3970814458,
+        3970813555
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 451500298,
+      "nodes": [
+        4483310568,
+        4483310569,
+        4483310570,
+        4483310571,
+        4483310572,
+        4483310568
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "kAKA Ni Bhaji pav"
+      }
+    },
+    {
+      "type": "way",
+      "id": 451503394,
+      "nodes": [
+        4483333666,
+        4483333667,
+        4483333668,
+        4483333669,
+        4483333666
+      ],
+      "tags": {
+        "addr:city": "Gandhinagar",
+        "addr:street": "GH Road",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Food Court sec.16"
+      }
+    },
+    {
+      "type": "way",
+      "id": 857200424,
+      "nodes": [
+        7992137206,
+        7992137207,
+        7992137208,
+        7992137209,
+        7992137206
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Rajdeep Khaman House"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1135220070,
+      "nodes": [
+        10582105856,
+        10582105857,
+        10582105858,
+        10582105859,
+        10582105856
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes",
+        "fast_food": "cafeteria",
+        "name": "Sainath Foods"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1135236974,
+      "nodes": [
+        10582239895,
+        10582239896,
+        10582239897,
+        10582239898,
+        10582239895
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "coffee_shop;chicken;indian",
+        "fast_food": "cafeteria",
+        "name": "Aadhya Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3970813555,
+      "lat": 21.6330749,
+      "lon": 69.6068732
+    },
+    {
+      "type": "node",
+      "id": 3970813556,
+      "lat": 21.6331636,
+      "lon": 69.6069592
+    },
+    {
+      "type": "node",
+      "id": 3970814457,
+      "lat": 21.6329885,
+      "lon": 69.6071755
+    },
+    {
+      "type": "node",
+      "id": 3970814458,
+      "lat": 21.6328999,
+      "lon": 69.6070778
+    },
+    {
+      "type": "node",
+      "id": 3788750497,
+      "lat": 21.6395266,
+      "lon": 69.6120815
+    },
+    {
+      "type": "node",
+      "id": 3788750498,
+      "lat": 21.6395931,
+      "lon": 69.6114627
+    },
+    {
+      "type": "node",
+      "id": 3788750499,
+      "lat": 21.6395704,
+      "lon": 69.6114608
+    },
+    {
+      "type": "node",
+      "id": 3788750500,
+      "lat": 21.6395039,
+      "lon": 69.6120796
+    },
+    {
+      "type": "node",
+      "id": 3786401053,
+      "lat": 21.6335981,
+      "lon": 69.6155912
+    },
+    {
+      "type": "node",
+      "id": 3786401054,
+      "lat": 21.633613,
+      "lon": 69.6156527
+    },
+    {
+      "type": "node",
+      "id": 3786401055,
+      "lat": 21.6336502,
+      "lon": 69.6157488
+    },
+    {
+      "type": "node",
+      "id": 3786401056,
+      "lat": 21.6336875,
+      "lon": 69.6158076
+    },
+    {
+      "type": "node",
+      "id": 3786401357,
+      "lat": 21.6336676,
+      "lon": 69.615837
+    },
+    {
+      "type": "node",
+      "id": 3786401358,
+      "lat": 21.6336254,
+      "lon": 69.6157809
+    },
+    {
+      "type": "node",
+      "id": 3786401359,
+      "lat": 21.6335807,
+      "lon": 69.6156847
+    },
+    {
+      "type": "node",
+      "id": 3786401360,
+      "lat": 21.6335608,
+      "lon": 69.6155993
+    },
+    {
+      "type": "node",
+      "id": 3786401361,
+      "lat": 21.6337694,
+      "lon": 69.6151719
+    },
+    {
+      "type": "node",
+      "id": 3786401362,
+      "lat": 21.6337917,
+      "lon": 69.6152039
+    },
+    {
+      "type": "node",
+      "id": 3786401363,
+      "lat": 21.6337719,
+      "lon": 69.6152226
+    },
+    {
+      "type": "node",
+      "id": 3786401364,
+      "lat": 21.6337371,
+      "lon": 69.615268
+    },
+    {
+      "type": "node",
+      "id": 3786401365,
+      "lat": 21.6336924,
+      "lon": 69.6153134
+    },
+    {
+      "type": "node",
+      "id": 3786401366,
+      "lat": 21.6336477,
+      "lon": 69.6153856
+    },
+    {
+      "type": "node",
+      "id": 3786401367,
+      "lat": 21.633613,
+      "lon": 69.6154523
+    },
+    {
+      "type": "node",
+      "id": 3786401368,
+      "lat": 21.6335782,
+      "lon": 69.615439
+    },
+    {
+      "type": "node",
+      "id": 3786401369,
+      "lat": 21.633603,
+      "lon": 69.6153669
+    },
+    {
+      "type": "node",
+      "id": 3786401370,
+      "lat": 21.6336577,
+      "lon": 69.6152894
+    },
+    {
+      "type": "node",
+      "id": 3786401371,
+      "lat": 21.6337098,
+      "lon": 69.6152306
+    },
+    {
+      "type": "node",
+      "id": 3786401372,
+      "lat": 21.6341418,
+      "lon": 69.6157916
+    },
+    {
+      "type": "node",
+      "id": 3786401373,
+      "lat": 21.6341542,
+      "lon": 69.6158129
+    },
+    {
+      "type": "node",
+      "id": 3786401374,
+      "lat": 21.6341269,
+      "lon": 69.6158396
+    },
+    {
+      "type": "node",
+      "id": 3786401375,
+      "lat": 21.6340922,
+      "lon": 69.6158664
+    },
+    {
+      "type": "node",
+      "id": 3786401376,
+      "lat": 21.6340549,
+      "lon": 69.6158904
+    },
+    {
+      "type": "node",
+      "id": 3786401377,
+      "lat": 21.6340127,
+      "lon": 69.6159064
+    },
+    {
+      "type": "node",
+      "id": 3786401378,
+      "lat": 21.633978,
+      "lon": 69.6159091
+    },
+    {
+      "type": "node",
+      "id": 3786401379,
+      "lat": 21.633978,
+      "lon": 69.6158717
+    },
+    {
+      "type": "node",
+      "id": 3786401380,
+      "lat": 21.6340152,
+      "lon": 69.615861
+    },
+    {
+      "type": "node",
+      "id": 3786401381,
+      "lat": 21.6340549,
+      "lon": 69.6158557
+    },
+    {
+      "type": "node",
+      "id": 3786401382,
+      "lat": 21.6340822,
+      "lon": 69.615837
+    },
+    {
+      "type": "node",
+      "id": 3786401383,
+      "lat": 21.6341145,
+      "lon": 69.6158129
+    },
+    {
+      "type": "node",
+      "id": 3786396838,
+      "lat": 21.6386023,
+      "lon": 69.622878
+    },
+    {
+      "type": "node",
+      "id": 3786396839,
+      "lat": 21.6386238,
+      "lon": 69.622929
+    },
+    {
+      "type": "node",
+      "id": 3786396840,
+      "lat": 21.6382095,
+      "lon": 69.6231329
+    },
+    {
+      "type": "node",
+      "id": 3786396841,
+      "lat": 21.6381903,
+      "lon": 69.6230893
+    },
+    {
+      "type": "node",
+      "id": 627507677,
+      "lat": 23.011197,
+      "lon": 72.5689385
+    },
+    {
+      "type": "node",
+      "id": 627507680,
+      "lat": 23.011119,
+      "lon": 72.5690966
+    },
+    {
+      "type": "node",
+      "id": 627507685,
+      "lat": 23.0113544,
+      "lon": 72.5690079
+    },
+    {
+      "type": "node",
+      "id": 627507694,
+      "lat": 23.0112764,
+      "lon": 72.5691719
+    },
+    {
+      "type": "node",
+      "id": 7992137206,
+      "lat": 22.2783908,
+      "lon": 73.1960807
+    },
+    {
+      "type": "node",
+      "id": 7992137207,
+      "lat": 22.2783948,
+      "lon": 73.1961776
+    },
+    {
+      "type": "node",
+      "id": 7992137208,
+      "lat": 22.2782874,
+      "lon": 73.1961946
+    },
+    {
+      "type": "node",
+      "id": 7992137209,
+      "lat": 22.2782874,
+      "lon": 73.1960839
+    },
+    {
+      "type": "node",
+      "id": 4483310568,
+      "lat": 23.1112727,
+      "lon": 72.6717204
+    },
+    {
+      "type": "node",
+      "id": 4483310569,
+      "lat": 23.1110939,
+      "lon": 72.6722595
+    },
+    {
+      "type": "node",
+      "id": 4483310570,
+      "lat": 23.1108065,
+      "lon": 72.6721535
+    },
+    {
+      "type": "node",
+      "id": 4483310571,
+      "lat": 23.1107621,
+      "lon": 72.672116
+    },
+    {
+      "type": "node",
+      "id": 4483310572,
+      "lat": 23.1109693,
+      "lon": 72.671609
+    },
+    {
+      "type": "node",
+      "id": 4483333666,
+      "lat": 23.2309287,
+      "lon": 72.649555
+    },
+    {
+      "type": "node",
+      "id": 4483333667,
+      "lat": 23.2321776,
+      "lon": 72.6503195
+    },
+    {
+      "type": "node",
+      "id": 4483333668,
+      "lat": 23.2327077,
+      "lon": 72.6493427
+    },
+    {
+      "type": "node",
+      "id": 4483333669,
+      "lat": 23.231371,
+      "lon": 72.6487021
+    },
+    {
+      "type": "node",
+      "id": 10582105856,
+      "lat": 23.2106849,
+      "lon": 72.6845648
+    },
+    {
+      "type": "node",
+      "id": 10582105857,
+      "lat": 23.2107212,
+      "lon": 72.6845638
+    },
+    {
+      "type": "node",
+      "id": 10582105858,
+      "lat": 23.2107269,
+      "lon": 72.6845969
+    },
+    {
+      "type": "node",
+      "id": 10582105859,
+      "lat": 23.2106954,
+      "lon": 72.6846005
+    },
+    {
+      "type": "node",
+      "id": 10582239895,
+      "lat": 23.2133879,
+      "lon": 72.6838391
+    },
+    {
+      "type": "node",
+      "id": 10582239896,
+      "lat": 23.2133834,
+      "lon": 72.6839291
+    },
+    {
+      "type": "node",
+      "id": 10582239897,
+      "lat": 23.2133293,
+      "lon": 72.6839258
+    },
+    {
+      "type": "node",
+      "id": 10582239898,
+      "lat": 23.2133202,
+      "lon": 72.6838423
+    }
+  ]
+}

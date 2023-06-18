@@ -1,0 +1,22 @@
+{% block content %}
+{% load crispy_forms_tags %}
+<form action="/" method="post">
+    {% csrf_token %}
+    {{ form|crispy }}
+    <input type="submit" value="Get Shops">
+</form>
+{% if shops %}
+    <h1>Nearby Shops</h1>
+    <ul>
+    {% for shop in shops %}
+        <div>
+            <p>
+                {{ shop.name }}: {{shop.distance.km|floatformat:2}} km
+            </p>
+        </div>
+    {% endfor %}
+    </ul>
+{% else %}
+<h2>No Shops Found</h2>
+{% endif %}
+{% endblock content %}

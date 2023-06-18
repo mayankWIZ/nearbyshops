@@ -1,0 +1,12 @@
+version: "3.1"
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: ./Dockefiles/Dockerfile
+    image: nearbyshops:v1.0.1
+    ports: 
+      - "8000:8000"
+    restart: "always"
+    env_file:
+      - .env
