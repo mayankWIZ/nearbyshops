@@ -3,7 +3,7 @@ services:
   backend:
     build:
       context: .
-      dockerfile: ./Dockefiles/Dockerfile
+      dockerfile: Dockerfile
     image: nearbyshops:v1.0.1
     ports: 
       - "8000:8000"
