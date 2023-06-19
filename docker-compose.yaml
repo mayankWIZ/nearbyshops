@@ -4,9 +4,10 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: nearbyshops:v1.0.1
+    image: nearbyshops:latest
+    network_mode: host
     ports: 
       - "8000:8000"
     restart: "always"
     env_file:
-      - .env
+      - nearbyshops/.env

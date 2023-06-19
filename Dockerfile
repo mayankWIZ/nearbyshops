@@ -15,6 +15,7 @@ RUN xargs apt-get install -y <system_packages.txt
 RUN python -m pip install --upgrade pip
 RUN apt install build-essential -y
 
-RUN python -m pip install --default-timeout=100 -r requirements.txt
+RUN python -m pip install -r requirements.txt --no-cache-dir
 EXPOSE 8000
-CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
+# CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
+CMD ["gunicorn", "--reload", "-b", "--access-logfile", "-", "0.0.0.0:8000", "nearbyshops.wsgi"]
