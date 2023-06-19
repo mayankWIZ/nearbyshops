@@ -144,3 +144,4 @@ STATICFILES_STORAGE = 'cloudinary_storage.storage.StaticHashedCloudinaryStorage'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
+CSRF_TRUSTED_ORIGINS = ["https://nearbyshops.up.railway.app","https://127.0.0.1","https://0.0.0.0"]
