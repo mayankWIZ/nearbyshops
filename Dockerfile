@@ -17,6 +17,5 @@ RUN apt install build-essential -y
 
 RUN python -m pip install -r requirements.txt --no-cache-dir
 EXPOSE 8000
-RUN python manage.py collectstatic --noinput
 # CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
 CMD ["gunicorn", "--reload", "--access-logfile", "-", "-b", "0.0.0.0:8000", "nearbyshops.wsgi"]
