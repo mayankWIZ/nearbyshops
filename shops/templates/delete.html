@@ -1,0 +1,8 @@
+<li><a href="/">Home</a></li>
+<li><a href="/detail/{{shop.pk}}">Details</a></li>
+<h1>Confirm Delete</h1>
+<p>Are you sure you want to delete "{{ shop.name }}"?</p>
+<form method="POST" action="/delete/{{shop.pk}}">
+    {% csrf_token %}
+    <button type="submit">Delete</button>
+</form>

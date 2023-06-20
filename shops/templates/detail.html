@@ -1,0 +1,16 @@
+<li><a href="/">Home</a></li>
+<html>
+    <head>
+        {{ form.media }}
+    </head>
+    <body>
+        <div style="height:500px;">
+            <form method="GET" action="/">
+                {% csrf_token %}
+                {{ form.as_div }}
+            </form>
+            <a href="/update/{{shop.id}}">Edit</a>
+            <a href="/delete/{{shop.pk}}">Delete</a>
+        </div>
+    </body>
+</html>

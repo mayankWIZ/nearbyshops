@@ -1,0 +1,24 @@
+<html>
+    <head>
+        {{ form.media }}
+    </head>
+    <body>
+        <h3><a href="/shop_list">Search Near by shops</a></h3>
+        <h1>Shop List</h1>
+        <ul>
+            {% for shop in shops %}
+                <li><a href="/detail/{{shop.pk}}">{{ shop.name }}</a></li>
+            {% empty %}
+                <li>No objects found.</li>
+            {% endfor %}
+        </ul>
+        <div style="margin-bottom:20px;height:500px;">
+        <h2> Add New Shop </h2>
+        <form method="POST" action="/">
+            {% csrf_token %}
+            {{ form.as_div }}
+            <button type="submit">Save</button>
+        </form>
+        </div>
+    </body>
+</html>

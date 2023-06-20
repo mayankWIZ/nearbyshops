@@ -1,12 +1,11 @@
 from .models import Shop
 from django.views.decorators.http import require_http_methods
-from django.http import HttpResponseRedirect
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404, redirect
 from django.contrib.gis.measure import D
 from django.contrib.gis.db.models.functions import Distance
 from django.contrib.gis.geos import Point
 
-from .forms import LocationForm
+from .forms import LocationForm, ShopForm, ShopDetailForm
 # Create your views here.
 
 @require_http_methods(["GET", "POST"])
@@ -37,7 +36,39 @@ def shop_list(request):
             )
             return render(request, "shop_list.html", {"form": form,"shops": shops})
         else:
-            return HttpResponseRedirect("/")
+            return redirect("/")
     else:
         form = LocationForm()
     return render(request, "shop_list.html", {"form": form})
+
+def home_view(request):
+    if request.method == 'POST':
+        form = ShopForm(request.POST)
+        if form.is_valid():
+            form.save()
+    form = ShopForm()
+    shops = Shop.objects.all()
+    return render(request, 'home.html', {'form': form, "shops": shops})
+
+def detail_view(request, pk):
+    shop = get_object_or_404(Shop, pk=pk)
+    form = ShopDetailForm(instance=shop)
+    return render(request, 'detail.html', {'shop': shop, 'form': form})
+
+def update_view(request, pk):
+    shop = get_object_or_404(Shop, pk=pk)
+    if request.method == 'POST':
+        form = ShopForm(request.POST, instance=shop)
+        if form.is_valid():
+            form.save()
+            return redirect('/', pk=pk)
+    else:
+        form = ShopForm(instance=shop)
+    return render(request, 'update.html', {'form': form, 'shop': shop})
+
+def delete_view(request, pk):
+    shop = get_object_or_404(Shop, pk=pk)
+    if request.method == 'POST':
+        shop.delete() # in realworl we can use soft deletion
+        return redirect('/')
+    return render(request, 'delete.html', {'shop': shop})
