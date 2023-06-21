@@ -36,11 +36,13 @@ def shop_list(request):
             )
             return render(request, "shop_list.html", {"form": form,"shops": shops})
         else:
+            print(form.errors)
             return redirect("/")
     else:
         form = LocationForm()
     return render(request, "shop_list.html", {"form": form})
 
+@require_http_methods(["GET", "POST"])
 def home_view(request):
     if request.method == 'POST':
         form = ShopForm(request.POST)
@@ -50,22 +52,25 @@ def home_view(request):
     shops = Shop.objects.all()
     return render(request, 'home.html', {'form': form, "shops": shops})
 
+@require_http_methods(["GET"])
 def detail_view(request, pk):
     shop = get_object_or_404(Shop, pk=pk)
     form = ShopDetailForm(instance=shop)
     return render(request, 'detail.html', {'shop': shop, 'form': form})
 
+@require_http_methods(["GET", "POST"])
 def update_view(request, pk):
     shop = get_object_or_404(Shop, pk=pk)
     if request.method == 'POST':
         form = ShopForm(request.POST, instance=shop)
         if form.is_valid():
             form.save()
-            return redirect('/', pk=pk)
+            return redirect('/')
     else:
         form = ShopForm(instance=shop)
     return render(request, 'update.html', {'form': form, 'shop': shop})
 
+@require_http_methods(["GET", "POST"])
 def delete_view(request, pk):
     shop = get_object_or_404(Shop, pk=pk)
     if request.method == 'POST':
