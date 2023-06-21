@@ -9,6 +9,7 @@ This project is a web application for managing nearby shops. It allows users to 
 
 * [Overview]
 * [Installation]
+* [Setting Up Database]
 * [Usage]
 * [Testing]
 * [Technologies Used]
@@ -31,10 +32,15 @@ The Nearby Shops Management project provides the following features:
 
 To set up and run the Nearby Shops Management project, you have two options: running it directly or using Docker. Choose the option that suits your preference.
 
+## Setting Up Database
+
+Set up the PostgreSQL database:
+    * Create a new PostgreSQL database and note down the database credentials.
+    * Update the database settings in the settings.py file with your database credentials.
+    * CREATE EXTENSION postgis;
+    * CREATE EXTENSION postgis_topology;
 
 ### Option 1: Running Without Docker
-
-
 
 1. Clone the repository:
 ```bash
@@ -56,16 +62,13 @@ pip install -r requirements.txt
 ```
 Also install all your OS supported relevant packages from system_packages.txt
 
-5. Set up the PostgreSQL database:
-    * Create a new PostgreSQL database and note down the database credentials.
-    * Update the database settings in the settings.py file with your database credentials.
-6. Apply database migrations:
+5. Apply database migrations:
 ```bash
 python manage.py makemigration
 python manage.py migrate
 ```
 
-7. Start the development server:
+6. Start the development server:
 ```bash
 python manage.py runserver
 ```
