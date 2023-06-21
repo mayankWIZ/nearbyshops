@@ -25,7 +25,7 @@ The Nearby Shops Management project provides the following features:
 * Shop Listing: The application displays a list of all nearby shops based on the user's current location and distance preferences.
 * Shop Update: Users can update the details of existing shops, including name, address, and coordinates.
 * Geographic Search: The application uses GeoDjango to perform spatial queries and retrieve shops within a specified distance from the user's location.
-
+### DEMO is Deployed with Railway App at https://nearbyshops.up.railway.app/
 
 ## Installation
 
