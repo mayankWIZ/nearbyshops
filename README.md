@@ -37,61 +37,60 @@ To set up and run the Nearby Shops Management project, you have two options: run
 
 
 1. Clone the repository:
-2. bash
-3. Copy code
-
+```bash
 git clone https://github.com/mayankWIZ/nearbyshops.git
+```
 
-
-4. Navigate to the project directory:
+2. Navigate to the project directory:
+```bash
 cd nearbyshops
-
-5. Set up a virtual environment (optional but recommended):
-
+```
+3. Set up a virtual environment (optional but recommended):
+```bash
 python3 -m venv venv
-
 source venv/bin/activate
-
-6. Install the required dependencies:
+```
+4. Install the required dependencies:
+```bash
 pip install -r requirements.txt
+```
 
-7. Set up the PostgreSQL database:
+5. Set up the PostgreSQL database:
     * Create a new PostgreSQL database and note down the database credentials.
     * Update the database settings in the settings.py file with your database credentials.
-8. Apply database migrations:
-
+6. Apply database migrations:
+```bash
 python manage.py makemigration
-
 python manage.py migrate
+```
 
-9. Start the development server:
-
+7. Start the development server:
+```bash
 python manage.py runserver
+```
+#### The application should now be running locally at http://localhost:8000.
 
-## The application should now be running locally at http://localhost:8000.
 
 
 ### Option 2: Running with Docker
 
-
-
 1. Clone the repository:
-
+```bash
 git clone https://github.com/mayankWIZ/nearbyshops.git
-
+```
 2. Navigate to the project directory:
-
+```bash
 cd nearby-shops-management
-
+```
 3. Build the Docker image:
-
+```bash
 docker build -t nearby-shops-management .
-
+````
 4. Run the Docker container:
-
+```bash
 docker run -p 8000:8000 nearby-shops-management
-
-## The application should now be running inside a Docker container at http://localhost:8000.
+```
+#### The application should now be running inside a Docker container at http://localhost:8000.
 
 ## Usage
 1. Access the application in your web browser at http://localhost:8000.
