@@ -54,6 +54,7 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+Also install all your OS supported relevant packages from system_packages.txt
 
 5. Set up the PostgreSQL database:
     * Create a new PostgreSQL database and note down the database credentials.
