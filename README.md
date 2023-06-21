@@ -80,15 +80,15 @@ git clone https://github.com/mayankWIZ/nearbyshops.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd nearby-shops-management
+cd nearbyshops
 ```
 3. Build the Docker image:
 ```bash
-docker build -t nearby-shops-management .
+docker build -t nearbyshops .
 ````
 4. Run the Docker container:
 ```bash
-docker run -p 8000:8000 nearby-shops-management
+docker run -p 8000:8000 nearbyshops
 ```
 #### The application should now be running inside a Docker container at http://localhost:8000.
 
