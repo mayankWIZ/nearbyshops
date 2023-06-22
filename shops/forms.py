@@ -9,14 +9,23 @@ class LocationForm(forms.Form):
 
 class ShopForm(forms.ModelForm):
     location = geo_forms.PointField(
+        srid=4326,
         widget=geo_forms.OSMWidget(
             attrs={
+                "map_srid": 4326,
                 "default_lon": 78.8718,
                 "default_lat": 21.7679,
                 "default_zoom": 8,
             }
         )
     )
+    def save(self, commit=True):
+        instance = super().save(commit=False)
+        instance.location = instance.location.wkt
+        if commit:
+            instance.save()
+        return instance
+
     class Meta:
         model = Shop
         fields = "__all__"
@@ -28,6 +37,7 @@ class ShopDetailForm(forms.ModelForm):
     location = geo_forms.PointField(
         widget=geo_forms.OSMWidget(
             attrs={
+                "map_srid": 4326,
                 "default_lon": 78.8718,
                 "default_lat": 21.7679,
                 "default_zoom": 8
